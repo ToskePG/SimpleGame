@@ -1,0 +1,73 @@
+# Eclipse specific files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders/
+
+# Eclipse project files (optional, remove if you want to keep them)
+.project
+.classpath
+
+# Build output directories
+target/
+out/
+build/
+
+# Maven specific
+log/
+logs/
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+test-output/
+surefire-reports/
+
+# Gradle specific
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Java related
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# JDT indexes
+.indexes/
+
+# Annotation processors
+.factorypath
+.apt_generated/
+

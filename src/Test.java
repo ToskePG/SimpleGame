@@ -65,7 +65,6 @@ public class Test {
 					fighter_options[0].jump();
 				}
 				else if(command.equals("M")) {
-					System.out.println("LALA");
 					fighter_options[0].firstKick(fighter_options[1]);
 					if(!fighter_options[1].isInGuard()) {
 						fighter_options[0].calculateDamage(10, fighter_options[1]);
@@ -75,5 +74,4 @@ public class Test {
 			}
 		}
 	}
-
 }

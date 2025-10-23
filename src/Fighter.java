@@ -191,4 +191,8 @@ public class Fighter {
 			f1.fighterDeath();
 		}
 	}
+	
+	// Probaj da napravis funkciju secondKick koja deluje 5 damage ako je u guardu a 20 ako nije
+	
+	// Prvo cemo da napravimo funkciju flyingFirstKick, flyingSecondKick, crouchFirstKick, crouchSeoncdKick()
 }
